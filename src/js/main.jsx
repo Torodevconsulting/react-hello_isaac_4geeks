@@ -11,7 +11,7 @@ import '../styles/index.css'
 // components
 import Home from './components/Home';
 
-ReactDOM.createRoot(document.getElementById('root')).render(
+ReactDOM.createRoot(document.getElementById('root')).render( //conexion entre la libreria de react y el HTML 
   <React.StrictMode>
     <Home/>
   </React.StrictMode>,
